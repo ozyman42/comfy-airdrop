@@ -1,0 +1,17 @@
+{
+    "scripts": {
+        "start": "bun index.ts"
+    },
+    "devDependencies": {
+        "@types/bs58": "^4.0.1",
+        "bun": "^1.0.29"
+    },
+    "dependencies": {
+        "@metaplex-foundation/mpl-token-metadata": "^2.5.2",
+        "@solana/spl-token": "^0.4.1",
+        "@solana/web3.js": "^1.90.1",
+        "bs58": "^4.0.1",
+        "match-discriminated-union": "^1.0.0",
+        "zod": "^3.22.4"
+    }
+}
